@@ -117,5 +117,4 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
   }, $data.htmlNodes.length > 0 ? {} : {});
 }
 const MiniProgramPage = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["render", _sfc_render], ["__file", "D:/hbuilder/online-shop/online-shop/pages/template/list2detail-detail/list2detail-detail.vue"]]);
-_sfc_main.__runtimeHooks = 2;
 wx.createPage(MiniProgramPage);
